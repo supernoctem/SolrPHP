@@ -3,5 +3,14 @@
   "description": "Solr wrapper in PHP.",
   "keywords": ["PHP", "Solr"],
   "license": "MIT",
-  "minimum-stability": "stable"
+  "authors": [
+        {
+            "name": "Leo Kruger",
+            "email": "krugerl1@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "minimum-stability": "dev"
 }
