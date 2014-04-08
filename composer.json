@@ -1,0 +1,7 @@
+{
+  "name": "supernoctem/solrphp",
+  "description": "Solr wrapper in PHP.",
+  "keywords": ["PHP", "Solr"],
+  "license": "MIT",
+  "minimum-stability": "stable"
+}
